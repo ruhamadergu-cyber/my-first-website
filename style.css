@@ -1,0 +1,37 @@
+/* Page background color */
+body {
+    background-color: #013045c9;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+
+}
+
+/* Heading style */
+.h1 {
+    color: #fdfafa;
+    font-size: 2.9em;
+    font-style: oblique;
+
+}
+
+/* Paragraph style */
+p {
+    color: #fbf5f5;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    font-style: inherit;
+}
+/* ol style */
+ol{
+    color: rgb(254, 252, 252);
+    font-size: 1.2em;
+    font-style: italic;
+}
+
+
+/* Image style */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
